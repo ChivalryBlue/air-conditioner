@@ -1,0 +1,11 @@
+{
+  "name": "bluezone-air-conditioner",
+  "version": "1.0.1",
+  "description": "这是资源",
+  "main": "index.3f125bc6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
